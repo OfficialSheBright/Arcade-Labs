@@ -1,4 +1,4 @@
-# [Analyze data with Gemini assistance](https://www.cloudskillsboost.google/focuses/80989?parent=catalog
+# [Analyze data with Gemini assistance](https://www.cloudskillsboost.google/focuses/80989?parent=catalog)
 
 ### **Execute the Following Commands in Cloud Shell:**
 

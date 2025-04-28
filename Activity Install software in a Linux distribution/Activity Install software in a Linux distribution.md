@@ -24,7 +24,7 @@ apt list --installed | grep tcpdump
 ```
 sudo apt install suricata -y
 ```
-* * Check score for Task 5.
+* Check score for Task 5.
 
 # 🎉 Woohoo! You Did It! 🎉
 

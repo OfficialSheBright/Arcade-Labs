@@ -1,7 +1,5 @@
 # Arcade Hero: Enter the Firewall Target Tag || [ARC142](https://www.cloudskillsboost.google/focuses/85631?parent=catalog) ||
 
-## Solution [here](https://youtu.be/JB8McsKVFKk)
-
 ### Run the following Commands in CloudShell
 
 ```
@@ -17,12 +15,18 @@ sudo chmod +x arc142.sh
 ./arc142.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Well done!*
+### 💬 Stay Connected with Our Community!
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Vedio](https://www.youtube.com/@officialSheBright)
+

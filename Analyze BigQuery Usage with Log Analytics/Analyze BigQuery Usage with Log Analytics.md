@@ -1,8 +1,6 @@
 # Analyze BigQuery Usage with Log Analytics || [GSP1250](https://www.cloudskillsboost.google/focuses/89264?parent=catalog) ||
 
-## 🔑 Solution [here](https://youtu.be/hsJzobxITRY)
-
-### ⚙️ Execute the Following Commands in Cloud Shell
+### Execute the Following Commands in Cloud Shell
 
 * Go to [Logs Storage](https://console.cloud.google.com/logs/storage?project=)
 
@@ -14,14 +12,18 @@ sudo chmod +x *.sh
 ./*.sh
 ```
 
-# 🎉 Woohoo! You Did It! 🎉  
+# 🎉 Woohoo! You Did It! 🎉
 
-Your hard work and determination paid off! 💻  
+Your hard work and determination paid off!
 You've successfully completed the lab. **Way to go!** 🚀
 
-### 💬 Stay Connected with Our Community!  
-👉 Join the conversation and never miss an update:  
-📢 [Telegram Channel](https://t.me/quickgcplab)  
-👥 [Discussion Group](https://t.me/quickgcplabchats)  
+### 💬 Stay Connected with Our Community!
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+👉 Join the conversation and never miss an update:
+
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Vedio](https://www.youtube.com/@officialSheBright)
+

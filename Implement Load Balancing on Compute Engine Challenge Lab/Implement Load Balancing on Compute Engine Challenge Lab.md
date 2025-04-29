@@ -1,7 +1,5 @@
 # Implement Load Balancing on Compute Engine: Challenge Lab || [GSP313](https://www.cloudskillsboost.google/focuses/10258?parent=catalog) ||
 
-## Solution [here](https://youtu.be/Mdt29aRVa6s)
-
 ### Run the following Commands in CloudShell
 
 ### Assign Veriables
@@ -19,12 +17,18 @@ sudo chmod +x gsp313.sh
 ```
 * *Note: You may need to wait for `5 to 7` `minutes` to get the score for this task.*
 
-### Congratulations 🎉 for completing the Challenge Lab !
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Well done!*
+### 💬 Stay Connected with Our Community!
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
+

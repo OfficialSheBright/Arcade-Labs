@@ -37,7 +37,3 @@ You've successfully completed the lab. **Way to go!** 🚀
 👥 [**Discord**](https://discord.gg/VzBN22adUC)
 
 #### [Solution Vedio](https://www.youtube.com/@officialSheBright)
-
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
-
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)

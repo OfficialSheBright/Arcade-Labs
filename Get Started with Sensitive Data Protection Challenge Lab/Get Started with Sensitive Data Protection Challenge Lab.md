@@ -1,7 +1,5 @@
 # Get Started with Sensitive Data Protection: Challenge Lab || [ARC116](https://www.cloudskillsboost.google/focuses/64782?parent=catalog) ||
 
-## Solution [here](https://youtu.be/9sWZC466FQk)
-
 ### Run the following Commands in CloudShell
 
 ```
@@ -22,10 +20,18 @@ sudo chmod +x arc116-2.sh
 ./arc116-2.sh
 ```
 
-### Congratulations 🎉 for Completing the Lab!  
+# 🎉 Woohoo! You Did It! 🎉
 
-#### Outstanding work! Your commitment has made this accomplishment possible.
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion Group](https://t.me/quickgcplabchats).  
+### 💬 Stay Connected with Our Community!
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)  
+👉 Join the conversation and never miss an update:
+
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
+  

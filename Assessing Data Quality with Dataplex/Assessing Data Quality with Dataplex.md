@@ -1,7 +1,5 @@
 # Assessing Data Quality with Dataplex || [GSP1158](https://www.cloudskillsboost.google/focuses/67211?parent=catalog) ||
 
-## Solution [here](https://youtu.be/vi2m0GWpZa0)
-
 ### Run the following Commands in CloudShell
 
 ```
@@ -25,14 +23,20 @@ sudo chmod +x gsp1158.sh
   LIMIT 50
 ```
 
-* Go to `Create task` from [here](https://console.cloud.google.com/dataplex/process/create-task/data-quality?)
+# 🎉 Woohoo! You Did It! 🎉
 
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-### Congratulations 🎉 for Completing the Lab !
+### 💬 Stay Connected with Our Community!
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+👉 Join the conversation and never miss an update:
 
-#### *Well done!*
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Vedio](https://www.youtube.com/@officialSheBright)
 
 #### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
 

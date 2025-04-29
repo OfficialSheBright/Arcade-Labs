@@ -12,6 +12,14 @@ sudo chmod +x arcadecrew.sh
 
 ```
 
+Manual Steps Required for Task 6:
+1. Open the Dataflow console: https://console.cloud.google.com/dataflow/jobs?referrer=search&project=
+2. Locate a job named 'GCStoPS' with a 'failed' status.
+3. Select the job and click 'Clone'.
+4. Assign a name (e.g., ArcadeCrew) and review the job details.
+5. Scroll down and click 'Run Job'.
+
+
 # 🎉 Woohoo! You Did It! 🎉
 
 Your hard work and determination paid off! 💻

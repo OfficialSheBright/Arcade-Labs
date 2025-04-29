@@ -1,7 +1,5 @@
 # Explore and Evaluate Models using Model Garden || [GSP1166](https://www.cloudskillsboost.google/focuses/71938?parent=catalog) ||
 
-## Solution [here](https://youtu.be/TkBlUZDTOTQ)
-
 ### Task 1: Explore Model Garden
 
 1.  Enable `Vertex AI API` from [here](https://console.cloud.google.com/marketplace/product/google/aiplatform.googleapis.com) 
@@ -17,12 +15,18 @@
 
 2. Click [here](https://console.cloud.google.com/vertex-ai/pipelines/vertex-ai-templates/bert-finetuning;versionId=sha256:0caf76450a3db5d768462d4846b4fb164845b0fc68383f6b4d7494be6bb7cf30/details?project=) to open the `bert-fine-tuning` Vertex AI pipeline.
 
-### Congratulations 🎉 for Completing the Lab !
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Well done!*
+### 💬 Stay Connected with Our Community!
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
+

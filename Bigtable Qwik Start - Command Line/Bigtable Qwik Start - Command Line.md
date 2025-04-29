@@ -1,7 +1,5 @@
 # Bigtable: Qwik Start - Command Line || [GSP099](https://www.cloudskillsboost.google/focuses/579?parent=catalog) ||
 
-## 🔑 Solution [here](https://youtu.be/xUlKJkb68OY)
-
 ### ⚙️ Execute the Following Commands in Cloud Shell
 
 ```
@@ -14,15 +12,16 @@ sudo chmod +x *.sh
 
 # 🎉 Woohoo! You Did It! 🎉
 
-Your hard work and determination paid off! 💻
+Your hard work and determination paid off!
 You've successfully completed the lab. **Way to go!** 🚀
 
 ### 💬 Stay Connected with Our Community!
 
 👉 Join the conversation and never miss an update:
 
-💚 [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆](https://chat.whatsapp.com/ECJ9h8GA3CA1ksaI9m5NrX)
-📢 [Telegram Channel](https://t.me/quickgcplab)
-👥 [Discussion Group](https://t.me/quickgcplabchats)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
+

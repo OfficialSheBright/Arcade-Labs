@@ -3,15 +3,17 @@
 ### Run the following Commands in CloudShell
 
 ```
-export ZONE=
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Google%20Cloud%20SDK%20Qwik%20Start%20-%20RedhatCentos/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
 ```
-```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20SDK%20Qwik%20Start%20-%20RedhatCentos/gsp122.sh
 
-sudo chmod +x gsp122.sh
-
-./gsp122.sh
-```
+* Enter Zone
+* Then enter 2
+* Then Y
+* And now authorize & copy
+* Then past on terminal
+* Then Choose 1
 
 # 🎉 Woohoo! You Did It! 🎉
 

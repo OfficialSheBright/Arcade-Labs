@@ -9,6 +9,8 @@ sudo chmod +x arcadecrew.sh
 
 ```
 
+- Enter Region
+
 # 🎉 Woohoo! You Did It! 🎉
 
 Your hard work and determination paid off!

@@ -3,14 +3,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-export LOCATION=
-```
-```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Get%20Started%20with%20Eventarc%20Challenge%20Lab/arc118.sh
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Get%20Started%20with%20Eventarc%20Challenge%20Lab/arcadecrew.sh
 
-sudo chmod +x arc118.sh
+sudo chmod +x arcadecrew.sh
 
-./arc118.sh
+./arcadecrew.sh
 ```
 
 # 🎉 Woohoo! You Did It! 🎉

@@ -1,7 +1,5 @@
 # [Cloud Audit Logs](https://www.cloudskillsboost.google/paths/15/course_templates/99/labs/432519?)
 
-## Solution [here](https://youtu.be/IZatdzjmncM)
-
 1. Got `Audit Logs` from [here](https://console.cloud.google.com/iam-admin/audit)
 
 2. Use `Filter` to locate `Google Cloud Storage`.
@@ -34,12 +32,17 @@ sudo chmod +x Audit-Logs.sh
 5. Press the `Run query` button.
 
 
-### Congratulations 🎉 for Completing the Lab !
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Well done!*
+### 💬 Stay Connected with Our Community!
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)

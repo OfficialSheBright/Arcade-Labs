@@ -1,7 +1,5 @@
 # Develop and Secure APIs with Apigee X: Challenge Lab || [GSP363](https://www.cloudskillsboost.google/focuses/32171?parent=catalog) ||
 
-## 💡 Solution [here](https://youtu.be/DQPZsyge3vk)
-
 ### 🚀 **Execute the following commands in Cloud Shell:**
 
 ```bash
@@ -29,12 +27,18 @@ sudo chmod +x gsp363.sh
 | :------------: | :-----------------: |  
 | Name           | translate-app       |
 
-### Congratulations 🎉 for Completing the Lab!  
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *You've successfully conquered the lab! Your dedication and skills truly shine.*  
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Stay determined—amazing opportunities are just ahead! 🚀*  
+### 💬 Stay Connected with Our Community!
 
-#### Don't miss out on joining the [Telegram Channel](https://t.me/quickgcplab) & [Discussion Group](https://t.me/quickgcplabchats)  
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)  
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
+

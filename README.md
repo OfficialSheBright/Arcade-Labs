@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/842d3ae6-d7e4-4c4b-87a8-a0dc7819dbb1)
+
 # 🎮 Arcade Labs
 
 Welcome to the **Arcade Labs** repository!
@@ -18,8 +20,6 @@ Maintained by a **Facilitator of the Arcade Program 2025 (Cohort 1)**
 📌 **Status**: Enrolment closed – All seats are FULL  
 🕒 **Next Cohort**: August/September 2025
 
----
-
 ## 🚀 Why Arcade Labs?
 
 By using this repository, you’ll:
@@ -37,8 +37,6 @@ By using this repository, you’ll:
 ## 🌐 Program Link
 🔗 [Official website](https://rsvp.withgoogle.com/events/arcade-facilitator)
 🔗 [Google Cloud Arcade](https://go.cloudskillsboost.google/arcade?utm_source=qwiklabs&utm_medium=lp&utm_campaign=old-site)
-
----
 
 ## 📂 Repository Structure
 

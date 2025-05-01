@@ -38,5 +38,5 @@ By using this repository, you’ll:
 🔗 [Official website](https://rsvp.withgoogle.com/events/arcade-facilitator)
 🔗 [Google Cloud Arcade](https://go.cloudskillsboost.google/arcade?utm_source=qwiklabs&utm_medium=lp&utm_campaign=old-site)
 
-## 📂 Repository Structure
+🎉 Happy Learning & Game On! ☁️
 

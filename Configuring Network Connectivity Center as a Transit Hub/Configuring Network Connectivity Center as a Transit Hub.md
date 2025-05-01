@@ -1,7 +1,5 @@
 # Configuring Network Connectivity Center as a Transit Hub || [GSP911](https://www.cloudskillsboost.google/focuses/18539?parent=catalog) ||
 
-## 💡 **Solution [here](https://youtu.be/NoQ1WjtdH1w)**
-
 ### 🚀 **Execute the following commands in Cloud Shell:**  
 
 ```
@@ -17,12 +15,17 @@ sudo chmod +x gsp911.sh
 
 
 
-### 🎉 **Congratulations on completing the lab!**  
+# 🎉 Woohoo! You Did It! 🎉
 
-##### *Your hard work and determination are commendable!*  
+Your hard work and determination paid off!
+You've successfully completed the lab. **Way to go!** 🚀
 
-#### *Keep striving for success—new heights await you! 🚀*
+### 💬 Stay Connected with Our Community!
 
-#### **Stay connected and join us:** [Telegram Channel](https://t.me/quickgcplab) & [Discussion Group](https://t.me/quickgcplabchats) 
+👉 Join the conversation and never miss an update:
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+💚 [**𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆**](https://chat.whatsapp.com/FYKYrKwcwYDE2Xl08SEi7D) <br>
+📢 [**Telegram Channel**](https://t.me/+e1HQkO3ao2FmMGQ1) <br>
+👥 [**Discord**](https://discord.gg/VzBN22adUC)
+
+#### [Solution Video](https://www.youtube.com/@officialSheBright)
